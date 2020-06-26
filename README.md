@@ -2,5 +2,5 @@
 
 본 소스코드는 빵형님의 코드를 참고하여 작성하였습니다.
 
-Github : https://github.com/kairess/cat_hipsterizer  
-Dataset : https://www.kaggle.com/crawford/cat-dataset  
+__Github :__ https://github.com/kairess/cat_hipsterizer  
+__Dataset :__ https://www.kaggle.com/crawford/cat-dataset  
